@@ -1,0 +1,4 @@
+,mean,std,min,Q1,median,Q3,max,dataset
+naloxone_dispensing_rate_per_100,0.48,0.34,0.1,0.3,0.4,0.6,2.5,Merged dataset
+death_rate_per_100000,30.05,13.31,8.1,19.8,28.45,37.18,90.9,Merged dataset
+prev_year_death_rate_per_100000,29.53,13.68,6.9,18.9,28.3,37.05,90.9,Merged dataset
